@@ -1,0 +1,3 @@
+Build?
+
+npx expo export
